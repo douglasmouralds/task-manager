@@ -10,8 +10,12 @@ Este é um aplicativo de gerenciamento de tarefas gameficado, desenvolvido em Fl
 
 ## Capturas de Tela
 
-<img src= ![image](https://github.com/douglasmouralds/task-manager/assets/142683965/b70294a1-56de-4b71-987b-7df53c07be27) alt="Captura de Tela 1" style="width:400px;">
-<img src= ![image](https://github.com/douglasmouralds/task-manager/assets/142683965/47dab5f6-e0ac-4cb2-8d93-87006be98cf4) alt="Captura de Tela 2" style="width:400px;">
+<img src="https://github.com/douglasmouralds/task-manager/assets/142683965/4133b58f-49ef-4496-acfe-5f432ba7c0b4" alt="Captura de Tela 1" width="400" align="left">
+
+<img src="https://github.com/douglasmouralds/task-manager/assets/142683965/3b73c233-7ca5-4329-bd84-2334a3f4fd5d" alt="Captura de Tela 2" width="400" align="right">
+
+## Linguagem
+
 
 ## Linguagem
 
