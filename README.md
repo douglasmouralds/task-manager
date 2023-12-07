@@ -10,8 +10,11 @@ Este é um aplicativo de gerenciamento de tarefas gameficado, desenvolvido em Fl
 
 ## Capturas de Tela
 
-![image](https://github.com/douglasmouralds/task-manager/assets/142683965/65bad3fd-7179-4371-9dd2-a2970e5bc0d2)![image](https://github.com/douglasmouralds/task-manager/assets/142683965/05a5a200-8fd3-448c-ad3d-6b02d116d62a)
+<img src="[screenshots/screenshot1.png](https://github.com/douglasmouralds/task-manager/assets/142683965/65bad3fd-7179-4371-9dd2-a2970e5bc0d2)" width="200" <img src="(https://github.com/douglasmouralds/task-manager/assets/142683965/05a5a200-8fd3-448c-ad3d-6b02d116d62a)" width="200"
 
+## Linguagem
+
+Projeto é desenvolvido principalmente em Dart, a linguagem de programação usada no framework Flutter.
 
 ## Como Executar
 
