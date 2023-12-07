@@ -14,8 +14,6 @@ Este é um aplicativo de gerenciamento de tarefas gameficado, desenvolvido em Fl
 | --- | --- |
 | *Captura de Tela 1* | *Captura de Tela 2* |
 
-## Linguagem
-
 
 ## Linguagem
 
